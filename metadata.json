@@ -1,0 +1,6 @@
+{
+  "name": "Inspection Carrosserie",
+  "description": "Une application web pour l'inspection de véhicules d'urgence pour les sapeurs-pompiers, assistée par l'IA Gemini pour générer des rapports.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
