@@ -1,3 +1,4 @@
+
 import React, { useState, useRef, useEffect } from 'react';
 import { InspectionProvider, useInspection } from './context/InspectionContext';
 import { AuthProvider, useAuth } from './context/AuthContext';
